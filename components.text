@@ -1,0 +1,11 @@
+🧾 Components Used
+
+| Component                              | Quantity | Purpose / Notes                                                 |
+| -------------------------------------- | -------- | --------------------------------------------------------------- |
+| Arduino Uno                            | 1        | Main microcontroller to control servo motors                    |
+| Servo Motor (SG90/MG90S)               | 4        | Actuators for robotic arm joints                                |
+| Potentiometer (10kΩ)                   | 4        | Used to control the position of each servo motor                |
+| Breadboard                             | 1        | For connecting potentiometers and sharing power/ground          |
+| Male-to-Male Jumper Wires              | ~30      | For all connections between Arduino, servos, and potentiometers |
+| USB Cable (Type-B)                     | 1        | To power the Arduino and upload code                            |
+| External Power Supply (Optional)       | —        | Recommended if using high-torque servos simultaneously          |
