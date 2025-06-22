@@ -34,4 +34,4 @@ All code is in the file: [`robot_arm_control.ino`](./robot_arm_control.ino)
 
 ## 📸 Demo
 
-> *(Insert your YouTube/GIF/video link here)*
+![Demo](./images/demo.jpg)
