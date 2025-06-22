@@ -14,7 +14,7 @@ This project demonstrates how to control a 4-degree-of-freedom robot arm using *
 
 ## 🔧 Components Used
 
-See [`components.txt`](./components.txt) for the full list.
+See [`components.txt`](./components.text) for the full list.
 
 ---
 
