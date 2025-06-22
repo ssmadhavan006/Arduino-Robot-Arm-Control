@@ -32,6 +32,23 @@ All code is in the file: [`robot_arm_control.ino`](./robot_arm_control.ino)
 
 ---
 
+## Non-obvious tech & libraries
+
+* **Arduino Servo library** – bundled with the IDE but often overlooked for multi-axis work.  
+* **TinkerCAD Circuits** schematic (`circuit_diagram.png`) – handy cloud simulator for quick validation.  
+* **USB CDC serial monitor** – quick-and-dirty telemetry without extra hardware.
+
+---
+
+## External assets
+
+| Asset | Link |
+|-------|------|
+| Servo library docs | <https://www.arduino.cc/reference/en/libraries/servo/> |
+| TinkerCAD Circuits | <https://www.tinkercad.com/circuits> |
+
+---
+
 ## 📸 Demo
 
 Here’s a snapshot of the robot arm in action:
@@ -39,3 +56,7 @@ Here’s a snapshot of the robot arm in action:
 ![Robot Arm Demo](./demo.jpg)
 
 ---
+
+
+
+
