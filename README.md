@@ -1,4 +1,4 @@
-# 🤖 Robot Arm Control using Arduino Uno and Potentiometers
+# 🤖 Robot Arm Control using Arduino Uno 
 
 This project demonstrates how to control a 4-degree-of-freedom robot arm using **Arduino Uno** and **four potentiometers**. Each potentiometer adjusts one servo motor.
 
@@ -34,4 +34,8 @@ All code is in the file: [`robot_arm_control.ino`](./robot_arm_control.ino)
 
 ## 📸 Demo
 
+Here’s a snapshot of the robot arm in action:
+
 ![Robot Arm Demo](./demo.jpg)
+
+---
